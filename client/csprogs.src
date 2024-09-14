@@ -1,0 +1,32 @@
+../../mpcsprogs.dat
+#define CSQC
+
+#pragma includedir "../shared/"
+#pragma includedir "./"
+
+defs.qc
+constants.qc
+../shared/tools.qc
+
+../shared/pevent.qc
+../shared/player.qc
+../shared/funcs/jumppad.qc
+../shared/funcs/water.qc
+../shared/weapons/w_blade.qc
+../shared/weapons/w_coachgun.qc
+../shared/weapons/w_shotgun.qc
+../shared/weapons/w_spitter.qc
+../shared/weapons/w_slagcannon.qc
+../shared/weapons/w_lance.qc
+../shared/weapons.qc
+../shared/items.qc
+../shared/footsteps.qc
+../shared/scoreboard.qc
+
+prediction.qc
+viewmodel.qc
+hud.qc
+
+csmain.qc
+../shared/physics.qc
+uielement.qc
