@@ -7,14 +7,15 @@ This entire thing was done in my personal time and much of it in a crunch, so be
 Hopefully it can be used to create a robust Deathmatch mode, and maybe have some use for Coop if anyone is brave enough to take a stab at that. It is also just a decent general-purpose FTEQW/DarkPlaces MP codebase, tho it requires some FTE features be ported into DP as I did for Wrath's fork.
 Someone should use this as a reason to bug DP maintainers for better FTE entrypoint adoption wink wink.
 
-Anyway, a partial list of incomplete things are supplied in the TODO.md, though I'm sure there's a ton I've forgotten.
+Anyway, a partial list of incomplete things are supplied in the [TODO.md](TODO.md), though I'm sure there's a ton I've forgotten.
 
 As far as "intent" behind the original MP mode as I saw it, I'll write some random verbal spew here:
-I pictured the Wrath MP as a mostly team-based game, to set it apart from the standard AFPS duel fair (which I think doesn't lend itself to the fast movement and weapon roster anyway).
-My intention was to have either 4v4 TDM with long weapon respawn times (a la QW), or some kind of Attack/Defend objective mode with team-allied monsters involved, which is something that hasn't really been done in an AFPS since some Q1/Q2 mods.
-Artifacts would become a single-slot usable item, similar to the Wee-Balls [sic?] in DBT, and they would mostly match their SP behavior. I did have the idea of making Confound Attar desaturate your screen and turn off teammate indicators :) sounds kinda fun.
+  I pictured the Wrath MP as a mostly team-based game, to set it apart from the standard AFPS duel fair (which I think doesn't lend itself to the fast movement and weapon roster anyway).
+  My intention was to have either 4v4 TDM with long weapon respawn times (a la QW), or some kind of Attack/Defend objective mode with team-allied monsters involved, which is something that hasn't really been done in an AFPS since some Q1/Q2 mods.
+  Artifacts would become a single-slot usable item, similar to the Wee-Balls \[sic?\] in DBT, and they would mostly match their SP behavior. I did have the idea of making Confound Attar desaturate your screen and turn off teammate indicators :) sounds kinda fun.
 
 I hope this codebase proves useful to someone, and feel free to use it for your own standalone projects. If you do, attribution in the credits is always appreciated (and of course follow the GPLv2+ License).
 
 Samuel "Reki" Piper
+
 discord: reki5868
